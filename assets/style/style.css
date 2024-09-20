@@ -1,0 +1,9 @@
+#main-bg-img {
+    background-image: url(../../images/rome.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#logo-lupa {
+    font-size: 3rem;
+}
